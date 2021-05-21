@@ -1,4 +1,4 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# This is my Digital Portfolio
 
 ![Shikhar Srivastava Digital Portfolio](front.PNG?raw=true "PAPA React JS Portfolio Stater Pack ")
 
