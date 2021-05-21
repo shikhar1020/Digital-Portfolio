@@ -1,0 +1,267 @@
+{
+  "main": {
+    "name": "Shikhar Srivastava",
+    "occupation": "FRONT END DEVELOPER",
+    "description": "I like to design beatiful things",
+    "image": "profile-shikhar.jpg",
+    "bio": "Hi there! I am Sangam! You might also call me Sangam. With a passion for learning new technologies and ability to solve problems in a smart way, I have the mindset to work with full dedication and give my best in whatever I do. I aspire to dive deep into the technological world. As an upbeat, self-motivated team player with excellent communication, I envision an exciting future in the industry. Browse my site to see all that I have to offer. With a passion for learning new technologies and ability to solve problems in a smart way, I have the mindset to work with full dedication and give my best in whatever I do.I have the mindset to work with full dedication and give my best in whatever I do. ",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "papareact.team@gmail.com",
+    "phone": "+91 930 4298 936",
+    "address": {
+      "street": "H. No. 129",
+      "city": "Hazaribagh",
+      "state": "Jharkhand",
+      "country": "India",
+      "zip": "825301"
+    },
+    "website": "https://shikhar17srivastav.wixsite.com/portfolio",
+    "resumedownload": "https://shikhar17srivastav.wixsite.com/portfolio",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.facebook.com/profile.php?id=100006803926273",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100006803926273",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shikhar-srivastava-9b219219a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sangamshikhar/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shikhar1020",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "NIIT University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2021",
+        "description": "Graduated with First Class Honours"
+      },
+      {
+        "school": "NIIT University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2021",
+        "description": "Graduated with First Class Honours"
+      },
+      {
+        "school": "NIIT University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2021",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Front End Developer",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      },
+      {
+        "company": "PAPA",
+        "title": "Front End Developer",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      },
+      {
+        "company": "Eoraa Co.",
+        "title": "Front End Developer",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      },
+      {
+        "company": "PAPA",
+        "title": "Front End Developer",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "59%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "whatsappLogo.png",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "",
+        "image": "whatsappLogo.png",
+        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "whatsappLogo.png",
+        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "",
+        "image": "whatsappLogo.png",
+        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "",
+        "image": "whatsappLogo.png",
+        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "",
+        "image": "whatsappLogo.png",
+        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "",
+        "image": "whatsappLogo.png",
+        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "",
+        "image": "whatsappLogo.png",
+        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "",
+        "image": "whatsappLogo.png",
+        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "",
+        "image": "whatsappLogo.png",
+        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "",
+        "image": "whatsappLogo.png",
+        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shikhar is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto",
+        "userDesignation": "CEO at Eoraa Contulsancy"
+      },
+      {
+        "text": "Learning with Shikhar has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Varun Modgil",
+        "userDesignation": "CEO at Eoraa Contulsancy"
+      },
+      {
+        "text": "Learning with Shikhar has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Varun Modgil",
+        "userDesignation": "CEO at Eoraa Contulsancy"
+      },
+      {
+        "text": "Learning with Shikhar has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Varun Modgil",
+        "userDesignation": "CEO at Eoraa Contulsancy"
+      },
+      {
+        "text": "Learning with Shikhar has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Varun Modgil",
+        "userDesignation": "CEO at Eoraa Contulsancy",
+        "userProfile": "https://shikhar17srivastav.wixsite.com/portfolio"
+      }
+    ]
+  }
+}
