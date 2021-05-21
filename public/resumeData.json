@@ -59,12 +59,6 @@
         "degree": "Bachelor's Degree, Computer Science",
         "graduated": "July 2021",
         "description": "Graduated with First Class Honours"
-      },
-      {
-        "school": "NIIT University",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2021",
-        "description": "Graduated with First Class Honours"
       }
     ],
     "work": [
@@ -140,7 +134,7 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "95%"
       },
       {
         "name": "JavaScript",
@@ -180,18 +174,6 @@
       },
       {
         "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "whatsappLogo.png",
-        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
-      },
-      {
-        "title": "WhatsApp Clone",
-        "category": "",
-        "image": "whatsappLogo.png",
-        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
-      },
-      {
-        "title": "WhatsApp Clone",
         "category": "",
         "image": "whatsappLogo.png",
         "url": "https://shikhar17srivastav.wixsite.com/portfolio"
