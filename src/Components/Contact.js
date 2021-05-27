@@ -1,10 +1,17 @@
 import React, { useState } from "react";
+// import Alert from 'react-bootstrap/Alert';
+import emailjs from 'emailjs-com';
+
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Contact = ({ data }) => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [subject, setSubject] = useState("");
   const [message, setMessage] = useState("");
+  // const [sucessMessage, setSucessMessage] = useState(false);
+  // const [errorMessage, setErrorMessage] = useState(false);
 
   if (data) {
     var contactName = data.name;
@@ -17,17 +24,70 @@ const Contact = ({ data }) => {
     var contactMessage = data.contactmessage;
   }
 
-  const submitForm = () => {
-    window.open(
-      `mailto:${contactEmail}?subject=${encodeURIComponent(
-        subject
-      )}&body=${encodeURIComponent(name)} (${encodeURIComponent(
-        email
-      )}): ${encodeURIComponent(message)}`
-    );
+  const submitForm = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('gmail', 'template_b2mcada', e.target, 'user_vdWQCtsFTx9fUjeAIYNF6')
+      .then((result) => {
+          console.log(result.text);
+          // setSucessMessage(true);
+          toast.info(`Message Received ${name}! Will reply you soon!`, {
+            position: "top-center",
+            autoClose: 5000,
+            hideProgressBar: true,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            });
+          // alert("Message Received! Will reply soon!");
+      }, (error) => {
+          console.log(error.text);
+          toast.error(`Opps! Some error occured ${name}, please try again:)`, {
+            position: "top-center",
+            autoClose: 5000,
+            hideProgressBar: true,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            });
+          // setErrorMessage(true);
+          // alert("Opps! Some error occured, please try again:)");
+      });
+      // e.target.reset();
+      setName("");
+      setEmail("");
+      setSubject("");
+      setMessage("");
+    // window.open(
+    //   `mailto:${contactEmail}?subject=${encodeURIComponent(
+    //     subject
+    //   )}&body=${encodeURIComponent(name)} (${encodeURIComponent(
+    //     email
+    //   )}): ${encodeURIComponent(message)}`
+    // );
   };
 
   return (
+    <>
+    <ToastContainer
+        position="top-center"
+        autoClose={5000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+      />
+    {/* <Alert show={sucessMessage} key="sucess" variant="sucess">
+      <p>Message Received! Will reply soon!</p>
+    </Alert>
+    <Alert show={errorMessage} key="error" variant="danger">
+      <p>Opps! Some error occured, please try again:)</p>
+    </Alert> */}
     <section id="contact">
       <div className="row section-head">
         <div className="two columns header-col">
@@ -103,7 +163,7 @@ const Contact = ({ data }) => {
               </div>
 
               <div>
-                <button onClick={submitForm} type="submit" className="submit">
+                <button /*onClick={submitForm}*/ type="submit" className="submit">
                   Submit
                 </button>
               </div>
@@ -135,6 +195,7 @@ const Contact = ({ data }) => {
         </aside>
       </div>
     </section>
+    </>
   );
 };
 
