@@ -6,7 +6,7 @@
     "image": "profile-shikhar.jpg",
     "bio": "Hi there! I am Sangam! You might also call me Sangam. With a passion for learning new technologies and ability to solve problems in a smart way, I have the mindset to work with full dedication and give my best in whatever I do. I aspire to dive deep into the technological world. As an upbeat, self-motivated team player with excellent communication, I envision an exciting future in the industry. Browse my site to see all that I have to offer. With a passion for learning new technologies and ability to solve problems in a smart way, I have the mindset to work with full dedication and give my best in whatever I do.I have the mindset to work with full dedication and give my best in whatever I do. ",
     "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
+    "email": "shikhar.17.srivastava@st.niituniversity.in",
     "phone": "+91 930 4298 936",
     "address": {
       "street": "H. No. 129",
@@ -46,115 +46,63 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "View my Technical Skills Proficiency",
     "education": [
       {
         "school": "NIIT University",
-        "degree": "Bachelor's Degree, Computer Science",
+        "degree": "B. Tech.  Computer Science",
         "graduated": "July 2021",
-        "description": "Graduated with First Class Honours"
-      },
-      {
-        "school": "NIIT University",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2021",
-        "description": "Graduated with First Class Honours"
+        "description": "• Got a scholarship of 75% on the total of academic fees for two consecutive years."
       }
     ],
     "work": [
       {
-        "company": "PAPA",
+        "company": "Eoraa Consultancy",
         "title": "Front End Developer",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
-      },
-      {
-        "company": "PAPA",
-        "title": "Front End Developer",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
-      },
-      {
-        "company": "Eoraa Co.",
-        "title": "Front End Developer",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
-      },
-      {
-        "company": "PAPA",
-        "title": "Front End Developer",
-        "years": "May 2019 - Present",
+        "years": "November 2020 - Present",
         "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "75%"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "Javascript",
+        "level": "60%"
       },
       {
-        "name": "Git",
+        "name": "HTML5",
+        "level": "87%"
+      },
+      {
+        "name": "CSS3",
+        "level": "80%"
+      },
+      {
+        "name": "Git & Github",
+        "level": "95%"
+      },
+      {
+        "name": "Firebase",
         "level": "70%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "Redux",
+        "level": "60%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Python",
+        "level": "67%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "C++",
+        "level": "60%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "95%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "59%"
+        "name": "GraphQl",
+        "level": "70%"
       }
     ]
   },
