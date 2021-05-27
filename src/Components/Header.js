@@ -71,7 +71,7 @@ const Header = ({ data }) => {
             Based in {country}. <span>{occupation}</span>. {description}.
           </h3>
           <hr />
-          <ul className="social">{networks}</ul>
+          <ul rel="noopener noreferrer" target="_blank" className="social">{networks}</ul>
         </div>
       </div>
 

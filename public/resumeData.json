@@ -5,7 +5,7 @@
     "description": "I like to design beatiful things",
     "image": "profile-shikhar.jpg",
     "bio": "Hi there! I am Sangam! You might also call me Sangam. With a passion for learning new technologies and ability to solve problems in a smart way, I have the mindset to work with full dedication and give my best in whatever I do. I aspire to dive deep into the technological world. As an upbeat, self-motivated team player with excellent communication, I envision an exciting future in the industry. Browse my site to see all that I have to offer. With a passion for learning new technologies and ability to solve problems in a smart way, I have the mindset to work with full dedication and give my best in whatever I do.I have the mindset to work with full dedication and give my best in whatever I do. ",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "contactmessage": "Got an idea to work on, get in touch with me, I usually reply within 24 hours!",
     "email": "shikhar.17.srivastava@st.niituniversity.in",
     "phone": "+91 930 4298 936",
     "address": {
@@ -60,7 +60,7 @@
         "company": "Eoraa Consultancy",
         "title": "Front End Developer",
         "years": "November 2020 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "description": "Developed a platform for medical proffesionals across japan to connect and collaborate with each other. Along with, advertiser management platform to serve ads to users and a CMS (Content Management System) to view and modify the data."
       }
     ],
     "skills": [
@@ -81,12 +81,16 @@
         "level": "80%"
       },
       {
-        "name": "Git & Github",
-        "level": "95%"
+        "name": "GraphQl",
+        "level": "70%"
       },
       {
         "name": "Firebase",
         "level": "70%"
+      },
+      {
+        "name": "Git & Github",
+        "level": "95%"
       },
       {
         "name": "Redux",
@@ -99,68 +103,70 @@
       {
         "name": "C++",
         "level": "60%"
-      },
-      {
-        "name": "GraphQl",
-        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Instagram Clone",
         "category": "",
-        "image": "whatsappLogo.png",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "instagram.PNG",
+        "url": "https://instagram-clone-76c99.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "",
+        "image": "amazon.PNG",
+        "url": "https://clone-4277b.web.app/"
+      },
+      {
+        "title": "Youtube Clone",
+        "category": "",
+        "image": "youtube.PNG",
+        "url": "https://clone-c7710.web.app/"
       },
       {
         "title": "WhatsApp Clone",
         "category": "",
-        "image": "whatsappLogo.png",
-        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+        "image": "whatsapp.PNG",
+        "url": "https://whatsappclonemern-7b264.web.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Photo Polish",
         "category": "",
-        "image": "whatsappLogo.png",
-        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+        "image": "photoPolish.PNG",
+        "url": "https://shikhar1020.github.io/photo-polish/"
       },
       {
-        "title": "WhatsApp Clone",
+        "title": "Photo Polish",
         "category": "",
         "image": "whatsappLogo.png",
-        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+        "url": "https://shikhar1020.github.io/photo-polish/"
       },
       {
-        "title": "WhatsApp Clone",
+        "title": "Photo Polish",
         "category": "",
         "image": "whatsappLogo.png",
-        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+        "url": "https://shikhar1020.github.io/photo-polish/"
       },
       {
-        "title": "WhatsApp Clone",
+        "title": "Photo Polish",
         "category": "",
         "image": "whatsappLogo.png",
-        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+        "url": "https://shikhar1020.github.io/photo-polish/"
       },
       {
-        "title": "WhatsApp Clone",
+        "title": "Photo Polish",
         "category": "",
         "image": "whatsappLogo.png",
-        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+        "url": "https://shikhar1020.github.io/photo-polish/"
       },
       {
-        "title": "WhatsApp Clone",
+        "title": "Netflix Clone",
         "category": "",
-        "image": "whatsappLogo.png",
-        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
-      },
-      {
-        "title": "WhatsApp Clone",
-        "category": "",
-        "image": "whatsappLogo.png",
-        "url": "https://shikhar17srivastav.wixsite.com/portfolio"
+        "image": "netflix.PNG",
+        "url": "https://netflix-clone-500d3.web.app/"
       }
     ]
   },
@@ -175,22 +181,6 @@
         "text": "Learning with Shikhar has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
         "user": "Varun Modgil",
         "userDesignation": "CEO at Eoraa Contulsancy"
-      },
-      {
-        "text": "Learning with Shikhar has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Varun Modgil",
-        "userDesignation": "CEO at Eoraa Contulsancy"
-      },
-      {
-        "text": "Learning with Shikhar has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Varun Modgil",
-        "userDesignation": "CEO at Eoraa Contulsancy"
-      },
-      {
-        "text": "Learning with Shikhar has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Varun Modgil",
-        "userDesignation": "CEO at Eoraa Contulsancy",
-        "userProfile": "https://shikhar17srivastav.wixsite.com/portfolio"
       }
     ]
   }
