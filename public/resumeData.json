@@ -109,40 +109,46 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Instagram Clone",
-        "category": "",
-        "image": "instagram.PNG",
-        "url": "https://instagram-clone-76c99.web.app/"
-      },
-      {
         "title": "Amazon Clone",
         "category": "",
         "image": "amazon.PNG",
-        "url": "https://clone-4277b.web.app/"
+        "url": "https://clone-4277b.web.app/",
+        "github": "https://github.com/shikhar1020/Amazon-Clone"
+      },
+      {
+        "title": "Instagram Clone",
+        "category": "",
+        "image": "instagram.PNG",
+        "url": "https://instagram-clone-76c99.web.app/",
+        "github": "https://github.com/shikhar1020/InstagramClone"
       },
       {
         "title": "Youtube Clone",
         "category": "",
         "image": "youtube.PNG",
-        "url": "https://clone-c7710.web.app/"
+        "url": "https://clone-c7710.web.app/",
+        "github": "https://github.com/shikhar1020/YoutubeClone"
       },
       {
         "title": "WhatsApp Clone",
         "category": "",
         "image": "whatsapp.PNG",
-        "url": "https://whatsappclonemern-7b264.web.app/"
+        "url": "https://whatsappclonemern-7b264.web.app/",
+        "github": "https://github.com/shikhar1020/WhatsappClone"
       },
       {
         "title": "Photo Polish",
         "category": "",
         "image": "photoPolish.PNG",
-        "url": "https://shikhar1020.github.io/photo-polish/"
+        "url": "https://shikhar1020.github.io/photo-polish/",
+        "github": "https://github.com/shikhar1020/photo-polish"
       },
       {
         "title": "Netflix Clone",
         "category": "",
         "image": "netflix.PNG",
-        "url": "https://netflix-clone-500d3.web.app/"
+        "url": "https://netflix-clone-500d3.web.app/",
+        "github": "https://github.com/shikhar1020/NetflixClone"
       }
     ]
   },
