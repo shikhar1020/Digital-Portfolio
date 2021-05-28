@@ -19,14 +19,9 @@
     "resumedownload": "https://drive.google.com/file/d/1JvDVLtVHAToIbHQ2A1uiIpnsr73IxbZV/view?usp=sharing",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.facebook.com/profile.php?id=100006803926273",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/profile.php?id=100006803926273",
-        "className": "fa fa-facebook"
+        "name": "hackerrank",
+        "url": "https://www.hackerrank.com/shikhar1020",
+        "className": "fab fa-hackerrank"
       },
       {
         "name": "linkedin",
@@ -42,6 +37,11 @@
         "name": "github",
         "url": "https://github.com/shikhar1020",
         "className": "fa fa-github"
+      },
+      {
+        "name": "medium",
+        "url": "https://medium.com/@shikhar.17.srivastava",
+        "className": "fa fa-medium"
       }
     ]
   },
